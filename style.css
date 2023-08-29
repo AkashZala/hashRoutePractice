@@ -1,0 +1,24 @@
+body {
+    color: whitesmoke;
+    background-color: rgb(38, 39, 41);
+}
+
+a {
+    color: whitesmoke;
+}
+
+ul {
+    padding-inline-start: 2rem;
+}
+
+.singlePost {
+    margin: 2rem;
+}
+
+.allPost {
+    margin: 2rem 0 0 2rem;
+}
+
+h1 {
+    text-align: center;
+}
